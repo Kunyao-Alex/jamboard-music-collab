@@ -1,0 +1,7 @@
+{
+  "name": "EFGH JamBoard",
+  "description": "A collaborative audio recording tool for musicians to capture ideas, tag them, and share with their club. Features waveform visualization and AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
